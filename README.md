@@ -2,7 +2,7 @@ Github README
 
 
 <h1 align="center">Hi 👋, I'm Kanishk Pandey</h1>
-<h3 align="center">I am a high school student interested in computer science.</h3>
+<h3 align="center">I am a student interested in computer science.</h3>
 <img align=“right” alt=“Coding” width=“400” src=“https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishk-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="kanishk-pandey" /> </p>
