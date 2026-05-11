@@ -9,15 +9,15 @@ Github README
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishk-pandey" alt="kanishk-pandey" /></a> </p>
 
-- 🔭 I’m currently working on **FRC 2024**
+- 🔭 I’m currently working on **Family AI Agent**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **FDE Coding**
 
-- 💬 Ask me about **Kotlin, Java, or Robot Code**
+- 💬 Ask me about **Kotlin, Java, Robot Code, or AI Agents**
 
-- 📫 How to reach me **kanishkpandey0407@gmail.com**
+- 📫 How to reach me **kanishkpandey747@gmail.com**
 
-- ⚡ Fun fact **I play basketball!**
+- ⚡ Fun fact **I do MMA!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
